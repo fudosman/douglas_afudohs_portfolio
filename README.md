@@ -1,2 +1,1 @@
-# douglas_afudohs_portfolio
-# douglas_afudohs_portfolio
+# My Portfolio site using vanilla Technologies HTML CSS and JS
